@@ -80,6 +80,7 @@ ul {
 li {
     margin-bottom: 0.8rem;
     position: relative;
+    font-weight: bold;
 }
 
 li:before {
